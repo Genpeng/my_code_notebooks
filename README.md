@@ -1,2 +1,14 @@
-# my_code_notebook
-In the learning process, use code to record what I have learned.
+# 我的代码笔记
+> 用代码去记录学习过程中学到的知识点，方便日后查看。
+
+[TOC]
+
+## 时间轴
+
+| 时间       | 描述                                                         |
+| ---------- | ------------------------------------------------------------ |
+| 2018-05-28 | [学习 Java Lambda 表达式](./java/LearnLambda/TestLambda1.java) |
+
+## 其他
+
+xx
