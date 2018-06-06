@@ -1,0 +1,1 @@
+define("question:widget/newbest/newbest",function(t,n,e){{var i=t("common:widget/js/util/tangram/tangram"),o=t("common:widget/js/util/template/template");t("common:widget/js/util/tangram/cookie"),t("common:widget/js/util/log/log")}e.exports={init:function(t){var n="t:act-link-banner",e=o(n,t);i("#act-link-banner-wp").append(e)}}});
